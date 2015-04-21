@@ -1,5 +1,5 @@
 <resources>
-        <color name="button_normal">#005500</color>
+        <color name="button_normal">#f3000500</color>
         <color name="button_pressed">#ff0000</color>
         <color name="button_text">#FFFFFF</color>
         <color name="background">#ff83877f</color>
